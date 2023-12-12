@@ -1,6 +1,15 @@
-.container{
-    width: 1300px;
-    height: 60px;
+
+.h2{
+    width: 1100px;
+    height: 40px;
+    text-align: center;
     background-color: green;
-    color: rgb(255, 255, 0);
+    color: rgb(255, 255, 0);  
+}
+.p{
+    width: 1100px;
+    height: 70px;
+    text-align: center;
+    color: green;
+    background-color: rgb(255, 255, 0);
 }
